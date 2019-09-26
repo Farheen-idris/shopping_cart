@@ -1,0 +1,24 @@
+.container {
+  margin-top: 10px;
+}
+
+.purchase {
+  width: 350px;
+  box-shadow: 0 4px 8px 0 gray;
+  padding: 1rem;
+}
+.purchase .show-grid {
+  padding-bottom: 1.5em;
+}
+
+/* .item-details-button {
+  outline: none;
+} */
+
+.price-strike {
+  text-decoration: line-through;
+  color: grey;
+}
+.promo-code-button:focus {
+  outline: none;
+}
